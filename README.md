@@ -1,4 +1,4 @@
-# fashion-MNIST
+# Fashion-MNIST
 
 CNN with tensorflow (keras) for fashion MNIST
 
